@@ -20,8 +20,8 @@ Either follow the deployed link or use the github link to access the repository 
 
 ## Usage
 
-[deployed]()
-[github]()
+[deployed](https://0clark30.github.io/work-day-scheduler/)
+[github](https://github.com/0Clark30/work-day-scheduler)
     ```
 
 ## Credits
